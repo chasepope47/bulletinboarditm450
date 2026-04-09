@@ -1,0 +1,8 @@
+node_modules/
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+lambda.zip
+.DS_Store
+.env
